@@ -8,8 +8,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on building smart connected devices and clean energy products
 - 🌱 I’m currently learning machine learning for embedded systems
 - 👯 I’m looking to collaborate on open source projects and fun Embedded Projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: akhilesh.thorat@gmail.com
 
 
